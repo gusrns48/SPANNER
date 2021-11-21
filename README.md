@@ -4,7 +4,7 @@
 
 ## 배포 방법
 
-now : just html, js
+now : just html, js<br>
 goal : React, node.js(back-end)
 
 
